@@ -1,0 +1,29 @@
+/* Estilos globais */
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  background-color: #f0f0f0; /* Um fundo leve para o body */
+}
+ 
+/* Container principal da aplicação */
+.app {
+  display: flex;
+  flex-direction: column;
+  /* width: 100%; */ /* Ocupar toda a largura */
+  min-height: 100vh; /* Ocupar toda a altura da tela */
+  align-items: center; /* Centralizar o conteúdo das rotas */
+}
+ 
+/* Estilos de loading genéricos (opcional, mas útil) */
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  font-size: 1.5em;
+  color: #555;
+}
+ 
+/* Outros estilos globais que você possa precisar */
