@@ -6,4 +6,4 @@
 - 📖 Ler sinopses informativas e completas.
 
 ## 🚀 Tecnologias
-- **HTML5**, **CSS3**, **JavaScript**, **React**.
+- **HTML**, **CSS**, **JavaScript**, **React**.
